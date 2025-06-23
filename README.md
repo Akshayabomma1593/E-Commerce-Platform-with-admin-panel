@@ -1,1 +1,1 @@
-# E-Commerce-Platforn-with-admin-panel
+# E-Commerce-Platform-with-admin-panel
