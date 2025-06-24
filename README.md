@@ -19,6 +19,7 @@ A Java-based e-commerce platform built with Swing GUI components. This applicati
 - View all products and orders
 - User management (view registered users)
 
+
 ---
 
 ## 🛠️ Tech Stack
@@ -82,3 +83,18 @@ Responsive GUI redesign
 
 
 ---
+ ##👩‍💻 Author
+
+**Akshaya Bomma**
+
+- Passionate Java developer and aspiring software engineer
+- Skilled in Java, SQL, HTML and CSS
+- 🔗 GitHub:(https://github.com/Akshayabomma1593)
+- 📧 Email: bommaakshaya@gmail.com
+
+
+---
+
+📜 License
+
+This project is open source and free to use for learning and academic purposes
